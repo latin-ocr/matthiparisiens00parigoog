@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./matthiparisiens00parigoog/matthiparisiens00parigoog_0524.png"; bbox 0 0 4517 6425; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 810 2933 1571 3111">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 810 2933 1571 3111">
+     <span class='ocr_line' id='line_1_1' title="bbox 1102 2933 1270 2977; baseline 0.006 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1102 2934 1121 2976; x_wconf 81' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_2' title='bbox 1153 2933 1270 2977; x_wconf 76' lang='lat' dir='ltr'>NDON:</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 810 3006 1571 3111; baseline -0.001 -10"><span class='ocrx_word' id='word_1_3' title='bbox 810 3006 1571 3111; x_wconf 42' lang='lat' dir='ltr'><strong>amum,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 959 3124 1416 3178">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 959 3124 1416 3178">
+     <span class='ocr_line' id='line_1_3' title="bbox 959 3124 1416 3178; baseline 0.002 -9"><span class='ocrx_word' id='word_1_4' title='bbox 959 3124 1005 3169; x_wconf 81' lang='lat' dir='ltr'><strong>For</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1013 3124 1064 3168; x_wconf 80' lang='lat' dir='ltr'><strong>Her</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1072 3124 1191 3177; x_wconf 66' lang='lat' dir='ltr'><strong>Msjoetys</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1200 3124 1331 3178; x_wconf 66' lang='lat' dir='ltr'><strong>stationery</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1339 3124 1416 3170; x_wconf 79' lang='lat' dir='ltr'><strong>Offloe.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1072 3197 1392 3254">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1072 3197 1392 3254">
+     <span class='ocr_line' id='line_1_4' title="bbox 1072 3197 1392 3254; baseline -0.013 -7"><span class='ocrx_word' id='word_1_9' title='bbox 1072 3197 1301 3254; x_wconf 67' lang='lat' dir='ltr'><strong>[m.-1000.-·1!65.]</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1384 3229 1392 3247; x_wconf 87' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2264 6420">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2264 6420">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2264 6420; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2264 6420; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
